@@ -26,7 +26,7 @@ namespace WindowsForms
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
             System.Media.SoundPlayer player = new System.Media.SoundPlayer();
-            player.SoundLocation = "puzzle.wav";
+            player.SoundLocation = "transience.wav";
             player.PlayLooping();
         }
 
@@ -79,7 +79,7 @@ namespace WindowsForms
                 if (IsPuzzleSolved())
                 {
                     MessageBox.Show("Вы разблокировали воспоминание!");
-                    previousForm.ContinueFromForm4(); // Вызываем метод для продолжения
+                    previousForm.ContinueFromForm8(); // Вызываем метод для продолжения
                     this.Hide();
                     previousForm.Show();
                 }
