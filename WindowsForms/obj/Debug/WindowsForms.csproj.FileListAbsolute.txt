@@ -70,3 +70,7 @@ C:\Users\redee\OneDrive\Рабочий стол\WindowsForms1\WindowsForms\obj\D
 C:\Users\redee\OneDrive\Рабочий стол\WindowsForms1\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
 C:\Users\redee\OneDrive\Рабочий стол\WindowsForms1\WindowsForms\obj\Debug\WindowsForms.exe
 C:\Users\redee\OneDrive\Рабочий стол\WindowsForms1\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\redee\OneDrive\Рабочий стол\WindowsForms1\WindowsForms\bin\Debug\WindowsForms.exe.manifest
+C:\Users\redee\OneDrive\Рабочий стол\WindowsForms1\WindowsForms\bin\Debug\WindowsForms.application
+C:\Users\redee\OneDrive\Рабочий стол\WindowsForms1\WindowsForms\obj\Debug\WindowsForms.exe.manifest
+C:\Users\redee\OneDrive\Рабочий стол\WindowsForms1\WindowsForms\obj\Debug\WindowsForms.application
